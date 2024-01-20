@@ -1,0 +1,116 @@
+iso_code,location,people_vaccinated_per_hundred
+OWID_AFR,Africa,10.64
+ALB,Albania,37.74
+DZA,Algeria,15.31
+ARG,Argentina,82.17
+ABW,Aruba,78.57
+OWID_ASI,Asia,62.22
+AUS,Australia,76.5
+AZE,Azerbaijan,49.04
+BHR,Bahrain,80.73
+BGD,Bangladesh,34.96
+BRB,Barbados,54.53
+BEL,Belgium,76.2
+BEN,Benin,5.8
+BOL,Bolivia,41.51
+BIH,Bosnia and Herzegovina,27.3
+BRA,Brazil,76.13
+BRN,Brunei,89.84
+KHM,Cambodia,84.36
+CAN,Canada,79.18
+CHL,Chile,86.11
+HRV,Croatia,54.28
+CUB,Cuba,90.75
+CUW,Curacao,53.77
+CZE,Czechia,63.57
+DOM,Dominican Republic,61.24
+ECU,Ecuador,76.48
+SLV,El Salvador,69.89
+OWID_ENG,England,75.7
+EST,Estonia,62.42
+ETH,Ethiopia,6.37
+OWID_EUR,Europe,62.95
+OWID_EUN,European Union,70.0
+FJI,Fiji,70.05
+FRA,France,77.4
+PYF,French Polynesia,53.16
+DEU,Germany,72.68
+GIB,Gibraltar,125.21
+GRC,Greece,67.86
+GTM,Guatemala,33.59
+GUY,Guyana,49.53
+OWID_HIC,High income,72.84
+HKG,Hong Kong,63.51
+HUN,Hungary,61.53
+ISL,Iceland,76.62
+IND,India,55.68
+IDN,Indonesia,50.59
+IRQ,Iraq,16.96
+IRL,Ireland,77.82
+IMN,Isle of Man,80.8
+ISR,Israel,67.32
+ITA,Italy,80.22
+JAM,Jamaica,23.6
+JPN,Japan,81.33
+JOR,Jordan,36.66
+KAZ,Kazakhstan,44.96
+KEN,Kenya,8.62
+KIR,Kiribati,45.33
+OWID_KOS,Kosovo,47.91
+KWT,Kuwait,77.41
+KGZ,Kyrgyzstan,16.89
+LVA,Latvia,68.99
+LBN,Lebanon,34.88
+LBR,Liberia,9.55
+LIE,Liechtenstein,65.41
+LTU,Lithuania,68.02
+OWID_LIC,Low income,5.28
+OWID_LMC,Lower middle income,42.4
+LUX,Luxembourg,69.0
+MAC,Macao,69.66
+MWI,Malawi,5.59
+MYS,Malaysia,76.39
+MDV,Maldives,75.56
+MLT,Malta,81.71
+MEX,Mexico,60.27
+MNE,Montenegro,43.77
+MMR,Myanmar,31.1
+NCL,New Caledonia,62.45
+NZL,New Zealand,75.03
+OWID_NAM,North America,64.38
+OWID_NIR,Northern Ireland,72.29
+NOR,Norway,78.25
+OWID_OCE,Oceania,57.15
+PNG,Papua New Guinea,2.66
+PER,Peru,67.4
+RUS,Russia,46.12
+LCA,Saint Lucia,30.22
+WSM,Samoa,62.89
+SAU,Saudi Arabia,67.62
+OWID_SCT,Scotland,79.54
+SRB,Serbia,47.5
+SGP,Singapore,85.49
+SVN,Slovenia,58.11
+SLB,Solomon Islands,22.3
+ZAF,South Africa,28.82
+OWID_SAM,South America,71.73
+KOR,South Korea,81.75
+ESP,Spain,80.65
+LKA,Sri Lanka,72.96
+CHE,Switzerland,67.02
+TWN,Taiwan,76.37
+TLS,Timor,48.23
+TON,Tonga,68.48
+TTO,Trinidad and Tobago,44.96
+TUN,Tunisia,49.47
+TUR,Turkey,65.93
+UKR,Ukraine,33.92
+GBR,United Kingdom,75.54
+USA,United States,70.42
+OWID_UMC,Upper middle income,74.38
+URY,Uruguay,80.36
+UZB,Uzbekistan,50.5
+OWID_WLS,Wales,77.89
+WLF,Wallis and Futuna,51.88
+OWID_WRL,World,53.72
+ZWE,Zimbabwe,23.26

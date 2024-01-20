@@ -1,0 +1,221 @@
+id,name,iso2,flag_url,continent
+AFG,Afghanistan,AF,https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Afghanistan.svg,ASIA
+ALB,Albania,AL,https://upload.wikimedia.org/wikipedia/commons/3/36/Flag_of_Albania.svg,EUROPE
+DZA,Algeria,DZ,https://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_Algeria.svg,AFRICA
+AND,Andorra,AD,https://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Andorra.svg,EUROPE
+AGO,Angola,AO,https://upload.wikimedia.org/wikipedia/commons/9/9d/Flag_of_Angola.svg,AFRICA
+AIA,Anguilla,AI,https://upload.wikimedia.org/wikipedia/commons/b/b4/Flag_of_Anguilla.svg,NORTH_AMERICA
+ATG,"Antigua and Barbuda",AG,https://upload.wikimedia.org/wikipedia/commons/8/89/Flag_of_Antigua_and_Barbuda.svg,NORTH_AMERICA
+ARG,Argentina,AR,https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg,SOUTH_AMERICA
+ARM,Armenia,AM,https://upload.wikimedia.org/wikipedia/commons/2/2f/Flag_of_Armenia.svg,ASIA
+ABW,Aruba,AW,https://upload.wikimedia.org/wikipedia/commons/f/f6/Flag_of_Aruba.svg,SOUTH_AMERICA
+AUS,Australia,AU,https://upload.wikimedia.org/wikipedia/commons/8/88/Flag_of_Australia_%28converted%29.svg,OCEANIA
+AUT,Austria,AT,https://upload.wikimedia.org/wikipedia/commons/4/41/Flag_of_Austria.svg,EUROPE
+AZE,Azerbaijan,AZ,https://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_Azerbaijan.svg,ASIA
+BHS,Bahamas,BS,https://upload.wikimedia.org/wikipedia/commons/9/93/Flag_of_the_Bahamas.svg,NORTH_AMERICA
+BHR,Bahrain,BH,https://upload.wikimedia.org/wikipedia/commons/2/2c/Flag_of_Bahrain.svg,ASIA
+BGD,Bangladesh,BD,https://upload.wikimedia.org/wikipedia/commons/f/f9/Flag_of_Bangladesh.svg,ASIA
+BRB,Barbados,BB,https://upload.wikimedia.org/wikipedia/commons/e/ef/Flag_of_Barbados.svg,NORTH_AMERICA
+BLR,Belarus,BY,https://upload.wikimedia.org/wikipedia/commons/8/85/Flag_of_Belarus.svg,EUROPE
+BEL,Belgium,BE,https://upload.wikimedia.org/wikipedia/commons/6/65/Flag_of_Belgium.svg,EUROPE
+BLZ,Belize,BZ,https://upload.wikimedia.org/wikipedia/commons/e/e7/Flag_of_Belize.svg,NORTH_AMERICA
+BEN,Benin,BJ,https://upload.wikimedia.org/wikipedia/commons/0/0a/Flag_of_Benin.svg,AFRICA
+BMU,Bermuda,BM,https://upload.wikimedia.org/wikipedia/commons/b/bf/Flag_of_Bermuda.svg,AFRICA
+BTN,Bhutan,BT,https://upload.wikimedia.org/wikipedia/commons/9/91/Flag_of_Bhutan.svg,ASIA
+BIH,"Bosnia and Herzegovina",BA,https://upload.wikimedia.org/wikipedia/commons/b/bf/Flag_of_Bosnia_and_Herzegovina.svg,EUROPE
+BWA,Botswana,BW,https://upload.wikimedia.org/wikipedia/commons/f/fa/Flag_of_Botswana.svg,AFRICA
+BRA,Brazil,BR,https://upload.wikimedia.org/wikipedia/en/0/05/Flag_of_Brazil.svg,SOUTH_AMERICA
+IOT,"British Indian Ocean Territory",IO,https://upload.wikimedia.org/wikipedia/commons/6/65/Flag_of_the_Commissioner_of_the_British_Indian_Ocean_Territory.svg,ASIA
+BRN,Brunei,BN,https://upload.wikimedia.org/wikipedia/commons/9/9c/Flag_of_Brunei.svg,ASIA
+BGR,Bulgaria,BG,https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Bulgaria.svg,EUROPE
+BFA,"Burkina Faso",BF,https://upload.wikimedia.org/wikipedia/commons/3/31/Flag_of_Burkina_Faso.svg,AFRICA
+BDI,Burundi,BI,https://upload.wikimedia.org/wikipedia/commons/5/50/Flag_of_Burundi.svg,AFRICA
+KHM,Cambodia,KH,https://upload.wikimedia.org/wikipedia/commons/8/83/Flag_of_Cambodia.svg,ASIA
+CMR,Cameroon,CM,https://upload.wikimedia.org/wikipedia/commons/4/4f/Flag_of_Cameroon.svg,AFRICA
+CAN,Canada,CA,https://upload.wikimedia.org/wikipedia/en/c/cf/Flag_of_Canada.svg,NORTH_AMERICA
+CPV,"Cape Verde",CV,https://upload.wikimedia.org/wikipedia/commons/3/38/Flag_of_Cape_Verde.svg,AFRICA
+CYM,"Cayman Islands",KY,https://upload.wikimedia.org/wikipedia/commons/0/0f/Flag_of_the_Cayman_Islands.svg,NORTH_AMERICA
+CAF,"Central African Republic",CF,https://upload.wikimedia.org/wikipedia/commons/6/6f/Flag_of_the_Central_African_Republic.svg,AFRICA
+TCD,Chad,TD,https://upload.wikimedia.org/wikipedia/commons/4/4b/Flag_of_Chad.svg,AFRICA
+CHL,Chile,CL,https://upload.wikimedia.org/wikipedia/commons/7/78/Flag_of_Chile.svg,SOUTH_AMERICA
+CHN,China,CN,https://upload.wikimedia.org/wikipedia/commons/f/fa/Flag_of_the_People%27s_Republic_of_China.svg,ASIA
+CXR,"Christmas Island",CX,https://upload.wikimedia.org/wikipedia/commons/6/67/Flag_of_Christmas_Island.svg,ASIA
+CCK,"Cocos (Keeling) Islands",CC,https://upload.wikimedia.org/wikipedia/commons/7/74/Flag_of_the_Cocos_%28Keeling%29_Islands.svg,ASIA
+COL,Colombia,CO,https://upload.wikimedia.org/wikipedia/commons/2/21/Flag_of_Colombia.svg,SOUTH_AMERICA
+COM,Comoros,KM,https://upload.wikimedia.org/wikipedia/commons/9/94/Flag_of_the_Comoros.svg,AFRICA
+COG,Congo,CG,https://upload.wikimedia.org/wikipedia/commons/9/92/Flag_of_the_Republic_of_the_Congo.svg,AFRICA
+COK,"Cook Islands",CK,https://upload.wikimedia.org/wikipedia/commons/3/35/Flag_of_the_Cook_Islands.svg,OCEANIA
+CRI,"Costa Rica",CR,https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Costa_Rica_%28state%29.svg,NORTH_AMERICA
+HRV,Croatia,HR,https://upload.wikimedia.org/wikipedia/commons/1/1b/Flag_of_Croatia.svg,EUROPE
+CUB,Cuba,CU,https://upload.wikimedia.org/wikipedia/commons/b/bd/Flag_of_Cuba.svg,NORTH_AMERICA
+CYP,Cyprus,CY,https://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Cyprus.svg,EUROPE
+CZE,"Czech Republic",CZ,https://upload.wikimedia.org/wikipedia/commons/c/cb/Flag_of_the_Czech_Republic.svg,EUROPE
+DNK,Denmark,DK,https://upload.wikimedia.org/wikipedia/commons/9/9c/Flag_of_Denmark.svg,EUROPE
+DJI,Djibouti,DJ,https://upload.wikimedia.org/wikipedia/commons/3/34/Flag_of_Djibouti.svg,AFRICA
+DMA,Dominica,DM,https://upload.wikimedia.org/wikipedia/commons/c/c4/Flag_of_Dominica.svg,NORTH_AMERICA
+DOM,"Dominican Republic",DO,https://upload.wikimedia.org/wikipedia/commons/9/9f/Flag_of_the_Dominican_Republic.svg,NORTH_AMERICA
+ECU,Ecuador,EC,https://upload.wikimedia.org/wikipedia/commons/e/e8/Flag_of_Ecuador.svg,SOUTH_AMERICA
+EGY,Egypt,EG,https://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Egypt.svg,AFRICA
+SLV,"El Salvador",SV,https://upload.wikimedia.org/wikipedia/commons/3/34/Flag_of_El_Salvador.svg,NORTH_AMERICA
+GNQ,"Equatorial Guinea",GQ,https://upload.wikimedia.org/wikipedia/commons/3/31/Flag_of_Equatorial_Guinea.svg,AFRICA
+ERI,Eritrea,ER,https://upload.wikimedia.org/wikipedia/commons/2/29/Flag_of_Eritrea.svg,AFRICA
+EST,Estonia,EE,https://upload.wikimedia.org/wikipedia/commons/8/8f/Flag_of_Estonia.svg,EUROPE
+ETH,Ethiopia,ET,https://upload.wikimedia.org/wikipedia/commons/7/71/Flag_of_Ethiopia.svg,AFRICA
+FLK,"Falkland Islands",FK,https://upload.wikimedia.org/wikipedia/commons/8/83/Flag_of_the_Falkland_Islands.svg,SOUTH_AMERICA
+FRO,"Faroe Islands",FO,https://upload.wikimedia.org/wikipedia/commons/3/3c/Flag_of_the_Faroe_Islands.svg,EUROPE
+FJI,Fiji,FJ,https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Fiji.svg,OCEANIA
+FIN,Finland,FI,https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Finland.svg,EUROPE
+FRA,France,FR,https://upload.wikimedia.org/wikipedia/en/c/c3/Flag_of_France.svg,EUROPE
+PYF,"French Polynesia",PF,https://upload.wikimedia.org/wikipedia/commons/d/db/Flag_of_French_Polynesia.svg,OCEANIA
+GAB,Gabon,GA,https://upload.wikimedia.org/wikipedia/commons/0/04/Flag_of_Gabon.svg,AFRICA
+GMB,Gambia,GM,https://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_The_Gambia.svg,AFRICA
+GEO,Georgia,GE,https://upload.wikimedia.org/wikipedia/commons/0/0f/Flag_of_Georgia.svg,ASIA
+DEU,Germany,DE,https://upload.wikimedia.org/wikipedia/en/b/ba/Flag_of_Germany.svg,EUROPE
+GHA,Ghana,GH,https://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Ghana.svg,AFRICA
+GIB,Gibraltar,GI,https://upload.wikimedia.org/wikipedia/commons/0/02/Flag_of_Gibraltar.svg,EUROPE
+GRC,Greece,GR,https://upload.wikimedia.org/wikipedia/commons/5/5c/Flag_of_Greece.svg,EUROPE
+GRL,Greenland,GL,https://upload.wikimedia.org/wikipedia/commons/0/09/Flag_of_Greenland.svg,NORTH_AMERICA
+GRD,Grenada,GD,https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Grenada.svg,NORTH_AMERICA
+GLP,Guadeloupe,GP,https://upload.wikimedia.org/wikipedia/commons/7/7d/Flag_of_Guadeloupe_%28local%29_variant.svg,NORTH_AMERICA
+GUM,Guam,GU,https://upload.wikimedia.org/wikipedia/commons/0/07/Flag_of_Guam.svg,OCEANIA
+GTM,Guatemala,GT,https://upload.wikimedia.org/wikipedia/commons/e/ec/Flag_of_Guatemala.svg,NORTH_AMERICA
+GGY,Guernsey,GG,https://upload.wikimedia.org/wikipedia/commons/f/fa/Flag_of_Guernsey.svg,EUROPE
+GIN,Guinea,GN,https://upload.wikimedia.org/wikipedia/commons/e/ed/Flag_of_Guinea.svg,AFRICA
+GNB,Guinea-Bissau,GW,https://upload.wikimedia.org/wikipedia/commons/0/01/Flag_of_Guinea-Bissau.svg,AFRICA
+GUY,Guyana,GY,https://upload.wikimedia.org/wikipedia/commons/9/99/Flag_of_Guyana.svg,SOUTH_AMERICA
+HTI,Haiti,HT,https://upload.wikimedia.org/wikipedia/commons/5/56/Flag_of_Haiti.svg,NORTH_AMERICA
+VAT,"Vatican City State (Holy See)",VA,https://upload.wikimedia.org/wikipedia/commons/0/00/Flag_of_the_Vatican_City.svg,EUROPE
+HND,Honduras,HN,https://upload.wikimedia.org/wikipedia/commons/c/ca/Naval_Ensign_of_Honduras.svg,NORTH_AMERICA
+HKG,"Hong Kong",HK,https://upload.wikimedia.org/wikipedia/commons/5/5b/Flag_of_Hong_Kong.svg,ASIA
+HUN,Hungary,HU,https://upload.wikimedia.org/wikipedia/commons/c/c1/Flag_of_Hungary.svg,EUROPE
+ISL,Iceland,IS,https://upload.wikimedia.org/wikipedia/commons/c/ce/Flag_of_Iceland.svg,EUROPE
+IND,India,IN,https://upload.wikimedia.org/wikipedia/en/4/41/Flag_of_India.svg,ASIA
+IDN,Indonesia,ID,https://upload.wikimedia.org/wikipedia/commons/9/9f/Flag_of_Indonesia.svg,ASIA
+IRN,Iran,IR,https://upload.wikimedia.org/wikipedia/commons/c/ca/Flag_of_Iran.svg,ASIA
+IRQ,Iraq,IQ,https://upload.wikimedia.org/wikipedia/commons/f/f6/Flag_of_Iraq.svg,ASIA
+IRL,Ireland,IE,https://upload.wikimedia.org/wikipedia/commons/4/45/Flag_of_Ireland.svg,EUROPE
+IMN,"Isle of Man",IM,https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_the_Isle_of_Man.svg,EUROPE
+ISR,Israel,IL,https://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Israel.svg,ASIA
+ITA,Italy,IT,https://upload.wikimedia.org/wikipedia/en/0/03/Flag_of_Italy.svg,EUROPE
+JAM,Jamaica,JM,https://upload.wikimedia.org/wikipedia/commons/0/0a/Flag_of_Jamaica.svg,NORTH_AMERICA
+JPN,Japan,JP,https://upload.wikimedia.org/wikipedia/en/9/9e/Flag_of_Japan.svg,ASIA
+JEY,Jersey,JE,https://upload.wikimedia.org/wikipedia/commons/1/1c/Flag_of_Jersey.svg,EUROPE
+JOR,Jordan,JO,https://upload.wikimedia.org/wikipedia/commons/c/c0/Flag_of_Jordan.svg,ASIA
+KAZ,Kazakhstan,KZ,https://upload.wikimedia.org/wikipedia/commons/d/d3/Flag_of_Kazakhstan.svg,ASIA
+KEN,Kenya,KE,https://upload.wikimedia.org/wikipedia/commons/4/49/Flag_of_Kenya.svg,AFRICA
+KIR,Kiribati,KI,https://upload.wikimedia.org/wikipedia/commons/d/d3/Flag_of_Kiribati.svg,OCEANIA
+KWT,Kuwait,KW,https://upload.wikimedia.org/wikipedia/commons/a/aa/Flag_of_Kuwait.svg,ASIA
+KGZ,Kyrgyzstan,KG,https://upload.wikimedia.org/wikipedia/commons/c/c7/Flag_of_Kyrgyzstan.svg,ASIA
+LAO,Laos,LA,https://upload.wikimedia.org/wikipedia/commons/5/56/Flag_of_Laos.svg,ASIA
+LVA,Latvia,LV,https://upload.wikimedia.org/wikipedia/commons/8/84/Flag_of_Latvia.svg,EUROPE
+LBN,Lebanon,LB,https://upload.wikimedia.org/wikipedia/commons/5/59/Flag_of_Lebanon.svg,ASIA
+LSO,Lesotho,LS,https://upload.wikimedia.org/wikipedia/commons/4/4a/Flag_of_Lesotho.svg,AFRICA
+LBR,Liberia,LR,https://upload.wikimedia.org/wikipedia/commons/b/b8/Flag_of_Liberia.svg,AFRICA
+WSM,Samoa,WS,https://upload.wikimedia.org/wikipedia/commons/3/31/Flag_of_Samoa.svg,OCEANIA
+LIE,Liechtenstein,LI,https://upload.wikimedia.org/wikipedia/commons/4/47/Flag_of_Liechtenstein.svg,EUROPE
+LTU,Lithuania,LT,https://upload.wikimedia.org/wikipedia/commons/1/11/Flag_of_Lithuania.svg,EUROPE
+LUX,Luxembourg,LU,https://upload.wikimedia.org/wikipedia/commons/d/da/Flag_of_Luxembourg.svg,EUROPE
+MAC,Macau,MO,https://upload.wikimedia.org/wikipedia/commons/6/63/Flag_of_Macau.svg,ASIA
+MDG,Madagascar,MG,https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Madagascar.svg,AFRICA
+MWI,Malawi,MW,https://upload.wikimedia.org/wikipedia/commons/d/d1/Flag_of_Malawi.svg,AFRICA
+MYS,Malaysia,MY,https://upload.wikimedia.org/wikipedia/commons/6/66/Flag_of_Malaysia.svg,ASIA
+MDV,Maldives,MV,https://upload.wikimedia.org/wikipedia/commons/0/0f/Flag_of_Maldives.svg,ASIA
+MLI,Mali,ML,https://upload.wikimedia.org/wikipedia/commons/9/92/Flag_of_Mali.svg,AFRICA
+MLT,Malta,MT,https://upload.wikimedia.org/wikipedia/commons/7/73/Flag_of_Malta.svg,EUROPE
+MHL,"Marshall Islands",MH,https://upload.wikimedia.org/wikipedia/commons/2/2e/Flag_of_the_Marshall_Islands.svg,OCEANIA
+MTQ,Martinique,MQ,https://upload.wikimedia.org/wikipedia/commons/6/64/Snake_Flag_of_Martinique.svg,NORTH_AMERICA
+MRT,Mauritania,MR,https://upload.wikimedia.org/wikipedia/commons/4/43/Flag_of_Mauritania.svg,AFRICA
+MUS,Mauritius,MU,https://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_Mauritius.svg,AFRICA
+MYT,Mayotte,YT,https://upload.wikimedia.org/wikipedia/en/c/c3/Flag_of_France.svg,AFRICA
+MEX,Mexico,MX,https://upload.wikimedia.org/wikipedia/commons/f/fc/Flag_of_Mexico.svg,NORTH_AMERICA
+MCO,Monaco,MC,https://upload.wikimedia.org/wikipedia/commons/e/ea/Flag_of_Monaco.svg,EUROPE
+MNG,Mongolia,MN,https://upload.wikimedia.org/wikipedia/commons/4/4c/Flag_of_Mongolia.svg,ASIA
+MNE,Montenegro,ME,https://upload.wikimedia.org/wikipedia/commons/6/64/Flag_of_Montenegro.svg,EUROPE
+MSR,Montserrat,MS,https://upload.wikimedia.org/wikipedia/commons/d/d0/Flag_of_Montserrat.svg,NORTH_AMERICA
+MAR,Morocco,MA,https://upload.wikimedia.org/wikipedia/commons/2/2c/Flag_of_Morocco.svg,AFRICA
+MOZ,Mozambique,MZ,https://upload.wikimedia.org/wikipedia/commons/d/d0/Flag_of_Mozambique.svg,AFRICA
+MMR,Myanmar,MM,https://upload.wikimedia.org/wikipedia/commons/8/8c/Flag_of_Myanmar.svg,ASIA
+NAM,Namibia,NA,https://upload.wikimedia.org/wikipedia/commons/0/00/Flag_of_Namibia.svg,AFRICA
+NRU,Nauru,NR,https://upload.wikimedia.org/wikipedia/commons/3/30/Flag_of_Nauru.svg,OCEANIA
+NPL,Nepal,NP,https://upload.wikimedia.org/wikipedia/commons/9/9b/Flag_of_Nepal.svg,ASIA
+NLD,Netherlands,NL,https://upload.wikimedia.org/wikipedia/commons/2/20/Flag_of_the_Netherlands.svg,EUROPE
+NCL,"New Caledonia",NC,https://upload.wikimedia.org/wikipedia/commons/2/26/Flags_of_New_Caledonia.svg,OCEANIA
+NZL,"New Zealand",NZ,https://upload.wikimedia.org/wikipedia/commons/3/3e/Flag_of_New_Zealand.svg,OCEANIA
+NIC,Nicaragua,NI,https://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Nicaragua.svg,NORTH_AMERICA
+NER,Niger,NE,https://upload.wikimedia.org/wikipedia/commons/f/f4/Flag_of_Niger.svg,AFRICA
+NGA,Nigeria,NG,https://upload.wikimedia.org/wikipedia/commons/7/79/Flag_of_Nigeria.svg,AFRICA
+NIU,Niue,NU,https://upload.wikimedia.org/wikipedia/commons/0/01/Flag_of_Niue.svg,OCEANIA
+NFK,"Norfolk Island",NF,https://upload.wikimedia.org/wikipedia/commons/4/48/Flag_of_Norfolk_Island.svg,OCEANIA
+MNP,"Northern Mariana Islands",MP,https://upload.wikimedia.org/wikipedia/commons/e/e0/Flag_of_the_Northern_Mariana_Islands.svg,OCEANIA
+NOR,Norway,NO,https://upload.wikimedia.org/wikipedia/commons/d/d9/Flag_of_Norway.svg,EUROPE
+OMN,Oman,OM,https://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_Oman.svg,ASIA
+PAK,Pakistan,PK,https://upload.wikimedia.org/wikipedia/commons/3/32/Flag_of_Pakistan.svg,ASIA
+PLW,Palau,PW,https://upload.wikimedia.org/wikipedia/commons/4/48/Flag_of_Palau.svg,OCEANIA
+PAN,Panama,PA,https://upload.wikimedia.org/wikipedia/commons/a/ab/Flag_of_Panama.svg,NORTH_AMERICA
+PNG,"Papua New Guinea",PG,https://upload.wikimedia.org/wikipedia/commons/e/e3/Flag_of_Papua_New_Guinea.svg,OCEANIA
+PRY,Paraguay,PY,https://upload.wikimedia.org/wikipedia/commons/2/27/Flag_of_Paraguay.svg,SOUTH_AMERICA
+PER,Peru,PE,https://upload.wikimedia.org/wikipedia/commons/c/cf/Flag_of_Peru.svg,SOUTH_AMERICA
+PHL,Philippines,PH,https://upload.wikimedia.org/wikipedia/commons/9/99/Flag_of_the_Philippines.svg,ASIA
+PCN,Pitcairn,PN,https://upload.wikimedia.org/wikipedia/commons/8/88/Flag_of_the_Pitcairn_Islands.svg,OCEANIA
+POL,Poland,PL,https://upload.wikimedia.org/wikipedia/en/1/12/Flag_of_Poland.svg,EUROPE
+PRT,Portugal,PT,https://upload.wikimedia.org/wikipedia/commons/5/5c/Flag_of_Portugal.svg,EUROPE
+PRI,"Puerto Rico",PR,https://upload.wikimedia.org/wikipedia/commons/2/28/Flag_of_Puerto_Rico.svg,NORTH_AMERICA
+QAT,Qatar,QA,https://upload.wikimedia.org/wikipedia/commons/6/65/Flag_of_Qatar.svg,ASIA
+REU,"Réunion",RE,https://upload.wikimedia.org/wikipedia/en/c/c3/Flag_of_France.svg,AFRICA
+ROU,Romania,RO,https://upload.wikimedia.org/wikipedia/commons/7/73/Flag_of_Romania.svg,EUROPE
+RWA,Rwanda,RW,https://upload.wikimedia.org/wikipedia/commons/1/17/Flag_of_Rwanda.svg,AFRICA
+KNA,"Saint Kitts and Nevis",KN,https://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Saint_Kitts_and_Nevis.svg,NORTH_AMERICA
+LCA,"Saint Lucia",LC,https://upload.wikimedia.org/wikipedia/commons/9/9f/Flag_of_Saint_Lucia.svg,NORTH_AMERICA
+SPM,"Saint Pierre and Miquelon",PM,https://upload.wikimedia.org/wikipedia/commons/7/74/Flag_of_Saint-Pierre_and_Miquelon.svg,NORTH_AMERICA
+VCT,"Saint Vincent and the Grenadines",VC,https://upload.wikimedia.org/wikipedia/commons/6/6d/Flag_of_Saint_Vincent_and_the_Grenadines.svg,NORTH_AMERICA
+SMR,"San Marino",SM,https://upload.wikimedia.org/wikipedia/commons/b/b1/Flag_of_San_Marino.svg,EUROPE
+STP,"Sao Tome and Principe",ST,https://upload.wikimedia.org/wikipedia/commons/4/4f/Flag_of_Sao_Tome_and_Principe.svg,AFRICA
+SAU,"Saudi Arabia",SA,https://upload.wikimedia.org/wikipedia/commons/0/0d/Flag_of_Saudi_Arabia.svg,ASIA
+SEN,Senegal,SN,https://upload.wikimedia.org/wikipedia/commons/f/fd/Flag_of_Senegal.svg,AFRICA
+SRB,Serbia,RS,https://upload.wikimedia.org/wikipedia/commons/f/ff/Flag_of_Serbia.svg,EUROPE
+SYC,Seychelles,SC,https://upload.wikimedia.org/wikipedia/commons/f/fc/Flag_of_Seychelles.svg,AFRICA
+SLE,"Sierra Leone",SL,https://upload.wikimedia.org/wikipedia/commons/1/17/Flag_of_Sierra_Leone.svg,AFRICA
+SGP,Singapore,SG,https://upload.wikimedia.org/wikipedia/commons/4/48/Flag_of_Singapore.svg,ASIA
+SVK,Slovakia,SK,https://upload.wikimedia.org/wikipedia/commons/e/e6/Flag_of_Slovakia.svg,EUROPE
+SVN,Slovenia,SI,https://upload.wikimedia.org/wikipedia/commons/f/f0/Flag_of_Slovenia.svg,EUROPE
+SLB,"Solomon Islands",SB,https://upload.wikimedia.org/wikipedia/commons/7/74/Flag_of_the_Solomon_Islands.svg,OCEANIA
+SOM,Somalia,SO,https://upload.wikimedia.org/wikipedia/commons/a/a0/Flag_of_Somalia.svg,AFRICA
+ZAF,"South Africa",ZA,https://upload.wikimedia.org/wikipedia/commons/a/af/Flag_of_South_Africa.svg,AFRICA
+SGS,"South Georgia and the South Sandwich Islands",GS,https://upload.wikimedia.org/wikipedia/commons/e/ed/Flag_of_South_Georgia_and_the_South_Sandwich_Islands.svg,SOUTH_AMERICA
+ESP,Spain,ES,https://upload.wikimedia.org/wikipedia/en/9/9a/Flag_of_Spain.svg,EUROPE
+LKA,"Sri Lanka",LK,https://upload.wikimedia.org/wikipedia/commons/1/11/Flag_of_Sri_Lanka.svg,ASIA
+SDN,Sudan,SD,https://upload.wikimedia.org/wikipedia/commons/0/01/Flag_of_Sudan.svg,AFRICA
+SUR,Suriname,SR,https://upload.wikimedia.org/wikipedia/commons/6/60/Flag_of_Suriname.svg,SOUTH_AMERICA
+SWZ,Swaziland,SZ,https://upload.wikimedia.org/wikipedia/commons/f/fb/Flag_of_Eswatini.svg,AFRICA
+SWE,Sweden,SE,https://upload.wikimedia.org/wikipedia/en/4/4c/Flag_of_Sweden.svg,EUROPE
+CHE,Switzerland,CH,https://upload.wikimedia.org/wikipedia/commons/0/08/Flag_of_Switzerland_%28Pantone%29.svg,EUROPE
+SYR,Syria,SY,https://upload.wikimedia.org/wikipedia/commons/5/53/Flag_of_Syria.svg,ASIA
+TWN,Taiwan,TW,https://upload.wikimedia.org/wikipedia/commons/7/72/Flag_of_the_Republic_of_China.svg,ASIA
+TJK,Tajikistan,TJ,https://upload.wikimedia.org/wikipedia/commons/d/d0/Flag_of_Tajikistan.svg,ASIA
+THA,Thailand,TH,https://upload.wikimedia.org/wikipedia/commons/a/a9/Flag_of_Thailand.svg,ASIA
+TLS,Timor-Leste,TL,https://upload.wikimedia.org/wikipedia/commons/2/26/Flag_of_East_Timor.svg,ASIA
+TGO,Togo,TG,https://upload.wikimedia.org/wikipedia/commons/6/68/Flag_of_Togo.svg,AFRICA
+TKL,Tokelau,TK,https://upload.wikimedia.org/wikipedia/commons/8/8e/Flag_of_Tokelau.svg,OCEANIA
+TON,Tonga,TO,https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Tonga.svg,OCEANIA
+TTO,"Trinidad and Tobago",TT,https://upload.wikimedia.org/wikipedia/commons/6/64/Flag_of_Trinidad_and_Tobago.svg,SOUTH_AMERICA
+TUN,Tunisia,TN,https://upload.wikimedia.org/wikipedia/commons/c/ce/Flag_of_Tunisia.svg,AFRICA
+TUR,Turkey,TR,https://upload.wikimedia.org/wikipedia/commons/b/b4/Flag_of_Turkey.svg,ASIA
+TKM,Turkmenistan,TM,https://upload.wikimedia.org/wikipedia/commons/1/1b/Flag_of_Turkmenistan.svg,ASIA
+TCA,"Turks and Caicos Islands",TC,https://upload.wikimedia.org/wikipedia/commons/a/a0/Flag_of_the_Turks_and_Caicos_Islands.svg,NORTH_AMERICA
+TUV,Tuvalu,TV,https://upload.wikimedia.org/wikipedia/commons/3/38/Flag_of_Tuvalu.svg,OCEANIA
+UGA,Uganda,UG,https://upload.wikimedia.org/wikipedia/commons/4/4e/Flag_of_Uganda.svg,AFRICA
+UKR,Ukraine,UA,https://upload.wikimedia.org/wikipedia/commons/4/49/Flag_of_Ukraine.svg,EUROPE
+ARE,"United Arab Emirates",AE,https://upload.wikimedia.org/wikipedia/commons/c/cb/Flag_of_the_United_Arab_Emirates.svg,ASIA
+GBR,"United Kingdom",GB,https://upload.wikimedia.org/wikipedia/en/a/ae/Flag_of_the_United_Kingdom.svg,EUROPE
+USA,"United States",US,https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg,NORTH_AMERICA
+URY,Uruguay,UY,https://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Uruguay.svg,SOUTH_AMERICA
+UZB,Uzbekistan,UZ,https://upload.wikimedia.org/wikipedia/commons/8/84/Flag_of_Uzbekistan.svg,ASIA
+VUT,Vanuatu,VU,https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Vanuatu.svg,OCEANIA
+VNM,Vietnam,VN,https://upload.wikimedia.org/wikipedia/commons/2/21/Flag_of_Vietnam.svg,ASIA
+WLF,"Wallis and Futuna",WF,https://upload.wikimedia.org/wikipedia/commons/d/d2/Flag_of_Wallis_and_Futuna.svg,OCEANIA
+YEM,Yemen,YE,https://upload.wikimedia.org/wikipedia/commons/8/89/Flag_of_Yemen.svg,ASIA
+ZMB,Zambia,ZM,https://upload.wikimedia.org/wikipedia/commons/0/06/Flag_of_Zambia.svg,AFRICA
+ZWE,Zimbabwe,ZW,https://upload.wikimedia.org/wikipedia/commons/6/6a/Flag_of_Zimbabwe.svg,AFRICA
+RUS,Russia,RU,https://upload.wikimedia.org/wikipedia/en/f/f3/Flag_of_Russia.svg,EUROPE
+MDA,Moldova,MD,https://upload.wikimedia.org/wikipedia/commons/2/27/Flag_of_Moldova.svg,EUROPE
+MKD,"North Macedonia",MK,https://upload.wikimedia.org/wikipedia/commons/7/79/Flag_of_North_Macedonia.svg,EUROPE

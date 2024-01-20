@@ -1,0 +1,5 @@
+vaderSentiment
+pandas
+matplotlib
+textblob
+beautifulsoup4
