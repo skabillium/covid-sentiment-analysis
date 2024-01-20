@@ -1,0 +1,21 @@
+# Python
+.venv/
+
+# Miscelanious files
+misc/
+
+# Logs
+logs/
+*.log
+pnpm-debug.log*
+
+node_modules/
+dist/
+*.local
+
+# Editor directories and files
+.vscode/*
+.DS_Store
+
+# Database files
+db/
