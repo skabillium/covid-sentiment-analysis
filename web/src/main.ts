@@ -14,6 +14,7 @@ type TweetFeatureProperties = {
   neutralPct: number;
   negativePct: number;
   tweets: number;
+  vaccineCoverage: number;
 };
 
 type TweetFeature = Feature<Geometry, TweetFeatureProperties> | undefined;
@@ -128,6 +129,7 @@ geojson.on('click', (event) => {
   L.tooltip({ permanent: false })
     .setContent(
       `<div style="font-weight: bold; font-size: 1.2em" >${properties.greekName}</div>
+    <div>Κάλυψη: ${properties.vaccineCoverage ? properties.vaccineCoverage+ '%':'Άγνωστο' }</div>
     <div>Tweets: ${properties.tweets}</div>
     <div>Θετικά: ${properties.positivePct}%</div>
     <div>Ουδέτερα: ${properties.neutralPct}%</div>
