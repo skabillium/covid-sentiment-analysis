@@ -32,14 +32,14 @@ for country in countries:
     if iso3 == '-99':
         continue
 
-    cursor.execute('SELECT name, greek_name, flag_url FROM country WHERE id=?',
+    cursor.execute('SELECT name, greek_name, flag_url, vaccine_coverage FROM country WHERE id=?',
                    (iso3,))
 
     country_row = cursor.fetchone()
     if country_row is None:
         continue
 
-    name, greek_name, flag_url = country_row
+    name, greek_name, flag_url, vaccine_coverage = country_row
 
     cursor.execute("""
     SELECT
@@ -60,6 +60,7 @@ for country in countries:
     country['properties']['positivePct'] = round(positive/tweet_count*100, 1)
     country['properties']['neutralPct'] = round(neutral/tweet_count*100, 1)
     country['properties']['negativePct'] = round(negative/tweet_count*100, 1)
+    country['properties']['vaccineCoverage'] = round(vaccine_coverage, 1)
     country['properties']['tweets'] = tweet_count
     tweet_geoson['features'].append(country)
 
