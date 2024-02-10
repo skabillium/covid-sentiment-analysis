@@ -2,4 +2,4 @@ vaderSentiment
 pandas
 matplotlib
 textblob
-beautifulsoup4
+beautifulsoup4scipy
